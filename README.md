@@ -1,2 +1,2 @@
-# LearningGoLang
+# LearnGoLang
 Learning GoLang
